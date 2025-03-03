@@ -1,3 +1,3 @@
 # my-code
 This is my first git repository
-Author- vikas rawat
+Author- vikas rawat ( computer science engineer)
